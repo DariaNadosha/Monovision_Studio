@@ -112,7 +112,7 @@ html {
 }
 
 .promo__title {
-    color: var(--light-color);
+    color: red;
     font-weight: 400;
     font-size: 60px;
     text-transform: uppercase;
